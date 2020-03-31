@@ -1,19 +1,27 @@
-https://www.valentinog.com/blog/redux/
-React Redux tutorial: what is a Redux middleware?
+-   redux saga 使用场景到底是什么
 
--   @ques extraneous
+    -   任务拆分
+
+-   @ques useReducer useMemo useCallback useImperativeHandle useLayoutEffect useDebugValue
+
+## 2020-03-30 09:59:32
+
+-   @ques 真实的项目中会用 react-saga 吗
+
+-   @ques redux saga await fn
+
+-   @imp@ques react 的 useDispatch 和 redux 的 useDispatch 有什么区别...
+
+### end
 
 -   @ques dispatch type
-
--   @ques useEffect 的第二个参数到底是干什么的?
+-   @ques extraneous
 
 ## 2020-03-26 09:53:18
 
 -   less global
 
 -   @ques react-redux connect decorator hook
-
--   redux saga 看起来好晕啊
 
 // eslint-disable-next-line to the line before.
 
