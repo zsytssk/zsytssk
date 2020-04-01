@@ -1,15 +1,12 @@
 import React from 'react';
-import List from './list/list';
-import Form from './form/form';
-import Post from './post';
+import { ReduxTest } from './reduxTest/reduxTest';
 
-const App = () => (
-    <div>
-        <h2>Articles</h2>
-        <Form />
-        <List />
-        <Post />
-    </div>
-);
+const App = () => {
+    return (
+        <div>
+            <ReduxTest />
+        </div>
+    );
+};
 
 export default App;

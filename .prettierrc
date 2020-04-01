@@ -5,5 +5,5 @@
     "no-prose-wrap": true,
     "trailingComma": "all",
     "extends": ["tslint:latest", "tslint-config-prettier"],
-    "printWidth": 200
+    "printWidth": 80
 }
