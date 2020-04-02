@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { addArticle, Article } from '../../redux/reducers';
 import { genId } from '../../utils/utils';
-import style from './reduxTest.module.css';
+import style from './reduxTest.module.scss';
 
 export const List = () => {
     const articles = useSelector((state: any) => {
@@ -38,7 +38,7 @@ export const Form: React.FC = () => {
             <div>
                 <label htmlFor="title">Title</label>
                 <input
-                    className={style.input}
+                    className={style.test}
                     type="text"
                     id="title"
                     value={title}

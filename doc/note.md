@@ -1,6 +1,26 @@
--   @todo useReducer useMemo useCallback useImperativeHandle useLayoutEffect useDebugValue
+-   @todo useMemo useCallback useImperativeHandle useLayoutEffect useDebugValue
 
--   @todo css 语法
+-   memo useMemo
+
+## 2020-04-02 10:07:37
+
+-   @ques useMemo 有一个例子
+
+    -   我查看组件 shouldUpdate...
+
+-   @todo less scss 语法
+
+    -   sass less css 自动不全
+
+-   useRouteMatch 是干什么了
+
+-   @ques react snippets
+
+    -   clean Fc
+
+-   @ques 点击其他地方隐藏怎么处理
+-   @ques useState useReducer 在父组件更新之后后怎样...
+    -   不会...
 
 ## 2020-03-30 09:59:32
 
@@ -20,6 +40,7 @@
 ### end
 
 -   @ques dispatch type
+
 -   @ques extraneous
 
 ## 2020-03-26 09:53:18

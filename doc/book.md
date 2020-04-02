@@ -9,3 +9,6 @@
 
 -   [react-saga](https://www.valentinog.com/blog/redux/ 'Writing your first Redux Saga')
     -   我发现这个使用场景很少了
+
+*   useState useReducer 会不会 被父组件更新导致子组件 更新
+    -   不会...(道理也应该是这样...)

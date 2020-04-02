@@ -1,11 +1,14 @@
 import React from 'react';
-import { ReduxTest } from './reduxTest/reduxTest';
+import { UseReducerFc } from './hook/useReducer';
+import { UseMemoFc } from './hook/useMemo';
 
 const App = () => {
     return (
-        <div>
-            <ReduxTest />
-        </div>
+        <>
+            {/* <ReduxTest /> */}
+            {/* <UseReducerFc /> */}
+            <UseMemoFc />
+        </>
     );
 };
 
