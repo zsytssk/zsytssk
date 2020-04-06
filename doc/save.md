@@ -11,7 +11,7 @@
 
 -   @ques css 是直接使用 class 还是 extend 哪个更好...
 
--   @ques less 怎么引用其他文件的 className
+-   @ques less 怎么引用其他文件的 className (因为我这个 class 是其他模块定义的你本身这个节点也在其他 dom 中...)
 
 -   @ques umijs 是做什么的 https://umijs.org/#getting-started-in-3-minutes
 

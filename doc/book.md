@@ -1,5 +1,5 @@
 -   useEffect 的第二个参数到底是干什么的?
-
+    -   useEffect z
     -   https://zhuanlan.zhihu.com/p/84697185
 
 *   hook 全局的 state 管理
@@ -12,3 +12,5 @@
 
 *   useState useReducer 会不会 被父组件更新导致子组件 更新
     -   不会...(道理也应该是这样...)
+
+-   @todo useEffect 是在所有的节点 render 之后执行...
