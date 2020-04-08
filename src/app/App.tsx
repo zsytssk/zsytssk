@@ -6,6 +6,7 @@ import UseImperativeHandleParent from './hook/useImperativeHandle';
 import { UseLayoutEffect } from './hook/useLayoutEffect';
 import { UseDebugValueWrap } from './hook/useDebugValue';
 import { UseIntervalDemo, UseCusHookDemo } from './hook/cusHook';
+import { UseSassTest } from './scss/scss';
 
 const App = () => {
     return (
@@ -17,7 +18,8 @@ const App = () => {
             {/* <UseImperativeHandleParent /> */}
             {/* <UseLayoutEffect /> */}
             {/* <UseDebugValueWrap /> */}
-            <UseCusHookDemo />
+            {/* <UseCusHookDemo /> */}
+            <UseSassTest />
         </>
     );
 };

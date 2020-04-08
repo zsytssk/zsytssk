@@ -1,0 +1,17 @@
+@import 'base';
+@import 'mixin';
+@import 'extend';
+
+.box {
+    background-color: $primary-color;
+    // @include transform(rotate(1deg));
+
+    .child {
+        @extend %extend;
+        border: 1px solid red;
+        background-color: blue;
+        margin-bottom: 10px;
+        color: #fff;
+        @test();
+    }
+}
