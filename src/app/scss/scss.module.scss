@@ -4,7 +4,7 @@
 
 .box {
     background-color: $primary-color;
-    // @include transform(rotate(1deg));
+    @include transform(rotate(deg));
 
     .child {
         @extend %extend;
@@ -12,6 +12,5 @@
         background-color: blue;
         margin-bottom: 10px;
         color: #fff;
-        @test();
     }
 }

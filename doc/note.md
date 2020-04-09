@@ -3,14 +3,25 @@
 -   @learn less 语法 http://lesscss.org/features/
 
     -   各种 less 语法示例
+        -   https://sass-lang.com/documentation/style-rules
 
--   @ques ts 语法
+## 2020-04-09 09:31:08
 
-## 2020-04-08 09:55:59
+@at-root rule.
 
 -   @ques 萌哥那语法... @LoginRegisterRules();
     -   这是什么语法...
     -   这和 extend 很相似...
+
+@use.
+
+@function
+
+`nth($list, 1)`
+
+`url(http://myapp.com/assets/logo.png)`
+
+## 2020-04-08 09:55:59
 
 ## 2020-04-05 11:06:43
 

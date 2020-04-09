@@ -1,11 +1,11 @@
 @mixin transform($property) {
-    -webkit-transform: $property;
-    -ms-transform: $property;
-    transform: $property;
+    @include display();
+
+    // -webkit-transform: $property;
+    // -ms-transform: $property;
+    // transform: $property;
 }
 
-
-
-@test {
-    background-color: #fff;
+@mixin display {
+    text-align: center;
 }
