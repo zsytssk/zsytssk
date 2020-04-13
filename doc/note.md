@@ -1,9 +1,21 @@
--   @todo ssr
+-   各种 less 语法示例
+    -   https://sass-lang.com/documentation/style-rules
 
--   @learn less 语法 http://lesscss.org/features/
+## 2020-04-13 09:17:01
 
-    -   各种 less 语法示例
-        -   https://sass-lang.com/documentation/style-rules
+-   @ques sass extend class
+
+    -   `@extend .child;`
+
+-   @ques
+
+    -   @use "sass:selector";
+
+-   @ques less
+    -   有 Default Values 吗(可以覆盖默认的值...)
+    -   Built-in Variables
+    -   Scope
+    -   !global
 
 ## 2020-04-09 09:31:08
 

@@ -1,6 +1,7 @@
 @import 'base';
 @import 'mixin';
 @import 'extend';
+@import 'buildIn';
 
 .box {
     background-color: $primary-color;
@@ -12,5 +13,9 @@
         background-color: blue;
         margin-bottom: 10px;
         color: #fff;
+
+        &_c {
+            @extend .child;
+        }
     }
 }
