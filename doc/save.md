@@ -2,6 +2,10 @@
 
 ## todo
 
+-   @note 感觉 scss 语法不测底..
+
+    -   不像 js import export 一样很测底...
+
 -   @todo 从零开始的 react 项目经典配置
 
 *   @ques useReducer + UseContext vs redux

@@ -5,7 +5,9 @@
 
 -   @use 能不能使用 class
 
--   @ques @use 和@import 的区别
+-   @use 能不能 将 app.css 直接变成 css module
+
+-   @ques @use 和@import @forward 的区别
 
 ## 2020-04-13 09:17:01
 
